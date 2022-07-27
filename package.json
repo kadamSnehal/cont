@@ -1,0 +1,22 @@
+{
+  "name": "containerpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadamSnehal/containerPractice.git"
+  },
+  "author": "snehal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadamSnehal/containerPractice/issues"
+  },
+  "homepage": "https://github.com/kadamSnehal/containerPractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
