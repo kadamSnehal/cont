@@ -17,3 +17,6 @@ app.get("/",(req,res)=>{
 app.get("/aboutus",(req,res)=>{
     res.send("<h1>Nothing to display !!</h1>")
 });
+
+var server=app.listen(9000);
+console.log("server started at port no 9000");
